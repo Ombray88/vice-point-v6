@@ -1,8 +1,8 @@
 # vice-point-v6
 
-[![make.fun badge](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01)
-[![make.fun rank](https://make.fun/rank/gta6-01.svg)](https://make.fun/bounty/gta6-01)
-[![make.fun reward](https://make.fun/reward/gta6-01.svg)](https://make.fun/bounty/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Ombray88/vice-point-v6/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Ombray88/vice-point-v6/reward.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 Vice Point 6D is an immersive 3D open-world GTA-style browser game featuring driving, car stealing, 7 story missions, wanted levels with police chases, a flyable helicopter, radio stations, shops, safehouses, garages, minimap navigation, and persistent saving. Explore the vibrant city streets, evade the authorities, and rise through the criminal underworld.
 
